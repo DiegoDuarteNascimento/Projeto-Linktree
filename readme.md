@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Linktree é um agregador de links para usar nas divulgações online. Para facilitar o usúario de conhecer o seu trabalho em uma maneira mais fácil e amplo.
 
 Esse foi o primeiro projeto desenvolvido por mim, pelo curso gratuido oferecido da [ROCKETSEAT](https://www.rocketseat.com.br/) .
 Onde venho aprimorando meu conhecimento de programação, e aprendendo varios desenvolvimentos feitos por Front-end e Back-end.
