@@ -34,6 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+Esse foi o primeiro projeto desenvolvido por mim, pelo curso gratuido oferecido da [ROCKETSEAT](https://www.rocketseat.com.br/) .
+Onde venho aprimorando meu conhecimento de programação, e aprendendo varios desenvolvimentos feitos por Front-end e Back-end.
+
 - [Acesse o projeto finalizado, online](https://github.com/diegoduartenascimento)
 
 ## :memo: Licença
