@@ -42,4 +42,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por @diegonascimento :wave: [Participe da nossa comunidade!]
+Feito com ♥ por @diegonascimento
